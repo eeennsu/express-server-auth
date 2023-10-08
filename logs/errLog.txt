@@ -1,0 +1,41 @@
+2023-10-02 / 08:31:07	4fc9fa86-8e40-426a-afe4-34189769a9df	Error : error log test!
+2023-10-03 / 07:20:04	082e865f-3a21-410a-8cd1-a85c85a01c08	Error: Not allowed by CORS
+2023-10-03 / 07:20:41	175ae137-048a-4141-b082-baa2ca5f2bda	Error: Not allowed by CORS
+2023-10-03 / 07:21:13	56f29258-a9de-4f5b-a732-64f6925e68d8	Error: Not allowed by CORS
+2023-10-03 / 07:21:17	74e932b8-2a87-47ec-8004-c1b6ad1f5b65	Error: Not allowed by CORS
+2023-10-03 / 07:21:34	9e75368c-1569-4850-b38b-b42ae7010780	Error: Not allowed by CORS
+2023-10-03 / 07:21:34	f9b8ea55-2662-4243-add7-3934e89ab8b7	Error: Not allowed by CORS
+2023-10-03 | 07:30:39	1cf635be-1874-406f-9ad3-7696a1b94680	Error: ENOENT: no such file or directory, stat 'D:\my coding\Dave Gray\nodejs\nodejs tutorial\04 (express start)\view\404.html'
+2023-10-03 | 07:30:39	830d52a4-cb56-49c9-9de7-f792f4df0afc	Error: ENOENT: no such file or directory, stat 'D:\my coding\Dave Gray\nodejs\nodejs tutorial\04 (express start)\view\404.html'
+2023-10-04 | 01:56:42	37ccbaff-1363-4291-b2b9-da28c987b25e	Error: ENOENT: no such file or directory, stat 'D:\my coding\Dave Gray\nodejs\nodejs tutorial\04 (express start)\routes\views\index.html'
+2023-10-04 | 01:56:43	d3e57cb7-19f5-414e-84f2-84e24ec30006	Error: ENOENT: no such file or directory, stat 'D:\my coding\Dave Gray\nodejs\nodejs tutorial\04 (express start)\routes\views\index.html'
+2023-10-04 | 01:57:22	d6223f30-f38a-44d2-a70f-53ab43aeb436	Error: ENOENT: no such file or directory, stat 'D:\my coding\Dave Gray\nodejs\nodejs tutorial\04 (express start)\routes\views\index.html'
+2023-10-04 | 02:13:52	b173e215-3e28-4f61-aa41-b7cf9d6afac4	Error: ENOENT: no such file or directory, stat 'D:\my coding\Dave Gray\nodejs\nodejs tutorial\04 (express start)\routes\views\subdir\index.html'
+2023-10-04 | 02:50:25	9fc8c97d-881c-440d-ab7e-1d958dda3638	ReferenceError: fisrtname is not defined
+2023-10-04 | 03:25:56	8994aa32-6af0-45cc-b9f1-1f98fca6b5a7	Error: ENOENT: no such file or directory, stat 'D:\my coding\Dave Gray\nodejs\nodejs tutorial\04 (express start)\routes\pages\views\404.html'
+2023-10-04 | 03:25:59	ae67af8c-d823-40d6-adf8-133ff2aadd4f	Error: ENOENT: no such file or directory, stat 'D:\my coding\Dave Gray\nodejs\nodejs tutorial\04 (express start)\routes\pages\views\404.html'
+2023-10-04 | 03:25:59	b8b83b61-e0f3-4d5f-a01a-7858f7e89d0c	Error: ENOENT: no such file or directory, stat 'D:\my coding\Dave Gray\nodejs\nodejs tutorial\04 (express start)\routes\pages\views\404.html'
+2023-10-04 | 10:47:42	624dbd82-0215-45c1-a045-7c7e2d7f0f98	ReferenceError: path is not defined
+2023-10-04 | 10:51:15	c25d62e4-8045-4252-92ed-818a93a44dc3	ReferenceError: path is not defined
+2023-10-04 | 10:52:02	4fd1fc95-9abb-4e8a-98a5-1e32c2801b4e	Error: ENOENT: no such file or directory, stat 'D:\my coding\Dave Gray\nodejs\views\404.html'
+2023-10-04 | 10:52:06	5b9e22f9-21a2-4108-8e69-a3e8f6de7a1b	Error: ENOENT: no such file or directory, stat 'D:\my coding\Dave Gray\nodejs\views\404.html'
+2023-10-05 | 04:04:41	76d69d41-caa4-45de-bdd0-e3de8f9d9876	TypeError: authHeader.splice is not a function
+2023-10-05 | 04:04:48	eabc69e4-0cb6-449b-b84e-c9a3c2a32348	TypeError: authHeader.splice is not a function
+2023-10-05 | 04:09:35	7dcf4bc1-dce2-456e-a15d-b19a76f4ef93	TypeError: next is not a function
+2023-10-05 | 06:50:43	0f26e50e-2e7e-4b2e-8722-d35b8f5a7f05	TokenExpiredError: jwt expired
+2023-10-05 | 06:50:45	a1d7e275-1a46-4021-86f6-84d4b1a1901f	TokenExpiredError: jwt expired
+2023-10-05 | 07:02:08	6d9a4a1a-697e-4dc4-b9a1-600dd35e3749	TokenExpiredError: jwt expired
+2023-10-07 | 09:55:08	077c60cc-ca2d-48db-bcc8-6c84f522527d	ReferenceError: __dirname is not defined
+2023-10-07 | 03:02:46	e671c039-1361-4ac1-91e1-29574ec264a5	SyntaxError: Unexpected string in JSON at position 38
+2023-10-07 | 03:02:53	8cfe2908-4802-4f0b-9bc8-4e0c953a08ac	SyntaxError: Unexpected string in JSON at position 36
+2023-10-07 | 03:02:59	c1d8601d-0e0b-4595-a91f-1f75961126d7	SyntaxError: Unexpected string in JSON at position 37
+2023-10-07 | 03:03:09	d0d8ba03-dc54-4652-87a3-db3467a3ce67	SyntaxError: Unexpected string in JSON at position 37
+2023-10-08 | 09:53:27	f70e3a30-07b4-4288-b2ab-784d955cfad5	SyntaxError: Unexpected string in JSON at position 37
+2023-10-08 | 09:54:07	56b4cf7c-1d71-4060-be88-917e58c4798a	SyntaxError: Unexpected token } in JSON at position 90
+2023-10-08 | 09:58:12	a8477335-a79d-4868-a481-a852474cd2ca	SyntaxError: Unexpected token } in JSON at position 113
+2023-10-08 | 09:58:19	35d0559e-ff9c-41b7-9077-84a71985dfa4	SyntaxError: Unexpected token } in JSON at position 113
+2023-10-08 | 10:29:34	ec37eed7-172f-4369-9bcf-a6dafd68f8c7	SyntaxError: Unexpected token } in JSON at position 43
+2023-10-08 | 10:32:03	819576f7-8fed-44c3-b20b-374d29508346	SyntaxError: Unexpected token f in JSON at position 1
+2023-10-08 | 10:36:28	ff367531-6058-44f5-9659-94a7527914fb	SyntaxError: Unexpected token l in JSON at position 22
+2023-10-08 | 10:36:51	ecfb65a2-e3fc-4afc-b2bb-c1354a13c672	SyntaxError: Unexpected token l in JSON at position 22
+2023-10-08 | 10:36:52	71983c31-a833-48c6-85c2-fb384b498d76	SyntaxError: Unexpected token l in JSON at position 22
